@@ -1,0 +1,13 @@
+{
+  "name": "typescript-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tslint": "tslint '**/*.ts'"
+  },
+  "devDependencies": {
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5"
+  }
+}

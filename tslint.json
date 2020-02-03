@@ -1,0 +1,22 @@
+{
+  "defaultSeverity": "warning",
+  "extends": ["tslint:recommended"],
+  "linterOptions": {
+    "exclude": ["node_modules/**/*"]
+  },
+  "jsRules": {},
+  "rules": {
+    "no-require-imports": false,
+    "no-var-requires": false,
+    "ter-padded-blocks": false,
+    "variable-name": {
+      "options": [
+        "ban-keywords",
+        "check-format",
+        "allow-leading-underscore",
+        "allow-pascal-case"
+      ]
+    }
+  },
+  "rulesDirectory": []
+}
