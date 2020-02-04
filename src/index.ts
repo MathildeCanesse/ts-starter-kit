@@ -1,2 +1,5 @@
-let x: number;
-x = "foo";
+const world = '🏄‍♀️';
+
+const hello = (word: string = world): string => {
+    return `Hello ${world}! `;
+}
