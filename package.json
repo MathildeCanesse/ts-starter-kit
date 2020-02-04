@@ -7,7 +7,13 @@
     "tslint": "tslint '**/*.ts'"
   },
   "devDependencies": {
+    "cz-conventional-changelog": "3.1.0",
     "tslint": "^6.0.0",
     "typescript": "^3.7.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
