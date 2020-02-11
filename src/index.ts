@@ -1,5 +1,5 @@
-const world = '🏄‍♀️';
+const defaultWord = '🏄‍♀️';
 
-const hello = (word: string = world): string => {
-  return `Hello ${world}! `;
+const hello = (word: string = defaultWord): string => {
+  return `Hello ${word}! `;
 };
