@@ -2,6 +2,8 @@
   "name": "typescript-starter",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "git@github.com:MathildeCanesse/typescript-starter.git",
+  "author": "Mathilde Canesse <mathilde.canesse@gmail.com>",
   "license": "MIT",
   "scripts": {
     "tslint": "tslint '**/*.ts'"
