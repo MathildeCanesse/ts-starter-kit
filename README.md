@@ -1,15 +1,13 @@
-# typescript-starter 🌀
+# ts-starter-kit 🌀
 
-*Draft boilerplate*
+_Draft boilerplate_
 
 **Getting Started**
 
-To compile 
+To compile
 `yarn tsc`
 
 To run the linter
 `yarn tslint`
 
-
-###### *Work in progress* 
-
+###### _Work in progress_
